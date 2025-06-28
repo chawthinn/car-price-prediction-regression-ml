@@ -26,8 +26,6 @@ Used car dataset sourced from Kaggle. It includes features such as mileage, engi
 ### Dataset
 ### Import libraries
 
----
-
 ### 1. Data Preprocessing
 - 1.1 Load the dataset and perform basic cleaning (handle missing values, duplicates)
 
